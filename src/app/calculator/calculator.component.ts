@@ -11,6 +11,7 @@ import { Component, OnInit } from '@angular/core';
     operator = '';
     waitForSecondNumber = false;
 
+    
 
  constructor() { }
 
